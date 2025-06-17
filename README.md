@@ -36,10 +36,7 @@
 3. **Import the database:**
     - Import the provided SQL schema into your MySQL database.
 
-4. **Set up your web server:**
-    - Point your web root to the `www` directory.
-
-5. **(Optional) Configure mail settings:**
+4. **(Optional) Configure mail settings:**
     - Update SMTP and mail settings in `includes/config.php` for email notifications.
 
 ## License
