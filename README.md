@@ -53,7 +53,7 @@ Pull requests and issues are welcome! Please open an issue to discuss your ideas
 - Bootstrap, Font Awesome, and other open source libraries.
 
 ## Demo
-[Halloweeb.Town](https://halloweeb.town)
+[Halloweeb.Town](https://halloweeb.town) Demo may break from time to time as work continues.
 
 ---
 
