@@ -50,6 +50,7 @@ Pull requests and issues are welcome! Please open an issue to discuss your ideas
 ## Credits
 
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) for email support.
+- [Choices.js](https://github.com/Choices-js/Choices) for the amazing select boxs I use for tags. 
 - Bootstrap, Font Awesome, and other open source libraries.
 
 ## Demo
