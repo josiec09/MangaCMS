@@ -49,9 +49,11 @@ Pull requests and issues are welcome! Please open an issue to discuss your ideas
 
 ## Credits
 
-- [Halloweeb.Town](https://halloweeb.town) for the original development and inspiration.
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) for email support.
 - Bootstrap, Font Awesome, and other open source libraries.
+
+## Demo
+[Halloweeb.Town](https://halloweeb.town)
 
 ---
 
