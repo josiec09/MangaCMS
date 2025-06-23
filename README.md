@@ -22,7 +22,7 @@
 - MySQL/MariaDB database
 - Web server (Apache, Nginx, etc.)
 
-## Installation
+## Installation (Ignore will most likely have an install script to make things easier)
 
 1. **Clone the repository:**
     ```sh
