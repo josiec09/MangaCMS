@@ -55,6 +55,7 @@ Pull requests and issues are welcome! Please open an issue to discuss your ideas
 
 ## Demo
 [Halloweeb.Town](https://halloweeb.town) Demo may break from time to time as work continues.
+[MangaCMS Admin Screenshots](https://halloweeb.town/mangacms.php) Sneak peek at the admin area.
 
 ---
 
