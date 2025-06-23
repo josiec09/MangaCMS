@@ -18,7 +18,7 @@
 
 ## Requirements
 
-- PHP 7.4 or higher
+- Tested on PHP 8.3
 - MySQL/MariaDB database
 - Web server (Apache, Nginx, etc.)
 
