@@ -20,3 +20,6 @@
 # Prevent linguist from indexing minified files
 *.min.js linguist-vendored
 *.min.css linguist-vendored
+
+#Config file
+config.php
