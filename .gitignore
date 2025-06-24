@@ -1,0 +1,22 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files
+*.html  text
+*.css   text
+*.js    text
+*.json  text
+*.php   text
+
+# Declare binary files
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.pdf   binary
+*.zip   binary
+
+# Prevent linguist from indexing minified files
+*.min.js linguist-vendored
+*.min.css linguist-vendored
