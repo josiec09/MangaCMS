@@ -18,7 +18,7 @@
 
 ## Requirements
 
-- Tested on PHP 8.3
+- PHP 8.3
 - MySQL/MariaDB database
 - Web server (Apache, Nginx, etc.)
 
